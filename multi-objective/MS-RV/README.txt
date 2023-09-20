@@ -1,0 +1,1 @@
+first run "Callsolver.m" to perform multiple surrogate assisted evolutionary, and then run "RefFinalindicator.m" to peroform reference vector based final solution set generation.
