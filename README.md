@@ -95,7 +95,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
 |Algorithm|Paper|Original Repository|
 |:-:|:-:|:-:|
 |DSE-MFS [offline]|A Data Stream Ensemble Assisted Multifactorial Evolutionary Algorithm for Offline Data-driven Dynamic Optimization *2023* [paper](https://direct.mit.edu/evco/article-abstract/doi/10.1162/evco_a_00332/115655/A-Data-Stream-Ensemble-Assisted-Multifactorial?redirectedFrom=fulltext)|[Peacefulyang/DSE_MFS](https://github.com/Peacefulyang/DSE_MFS.git)|
-|DETO|A Data-Driven Evolutionary Transfer Optimization for Expensive Problems in Dynamic Environments *2022* [paper](http://arxiv.org/abs/2211.02879)|-|
+|DETO|A Data-Driven Evolutionary Transfer Optimization for Expensive Problems in Dynamic Environments *2022* [paper](http://arxiv.org/abs/2211.02879)|[COLA-Laboratory/DETO](https://github.com/COLA-Laboratory/DETO)|
 |MBO-DOP|Model-based optimization with concept drifts *2020* [paper](https://dl.acm.org/doi/10.1145/3377930.3390175)|-|
 |TL-MOEA/D-EGO|Surrogate Assisted Evolutionary Algorithm Based on Transfer Learning for Dynamic Expensive Multi-Objective Optimisation Problems *2020* [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120304536)|-|
 |1SGP, 1S_RBF, *etc*|Surrogate-Assisted Evolutionary Framework for Data-Driven Dynamic Optimization *2019* [paper](https://ieeexplore.ieee.org/document/8502789/)|[MiLab-HITSZ](https://huggingface.co/datasets/MiLab-HITSZ/SurrogateAssistedFramework/tree/main)|
