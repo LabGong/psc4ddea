@@ -2,7 +2,7 @@
 
 This respository aims to maintain a list of useful relevant papers and open source codes for Data-Driven Evolutionary Algorithms (DDEAs).
 
-*Maintained by members in SCUT-Ailab: Yuanting Zhong, Xianrong Zhang, Xincan Wang, Ke Zhu, Haogan Huang and Yuejiao Gong.*
+*Maintained by members in SCUT-Ailab: Yuanting Zhong, Haogan Huang, Yuhong Sun, Xianrong Zhang, Xincan Wang, Ke Zhu and Yuejiao Gong.*
 
 - [Useful Papers and Source Codes for Data-Driven Evolutionary Algorithms （DDEAs)](#useful-papers-and-source-codes-for-data-driven-evolutionary-algorithms-ddeas)
   - [1. Survey Papers](#1-survey-papers)
