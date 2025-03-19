@@ -1,4 +1,4 @@
-# Useful Papers and Source Codes for Data-Driven Evolutionary Algorithms （DDEAs)
+# Useful Papers and Source Codes for Data-Driven Evolutionary Algorithms（DDEAs)
 
 This respository aims to maintain a list of useful relevant papers and open source codes for Data-Driven Evolutionary Algorithms (DDEAs).
 
@@ -13,7 +13,8 @@ This respository aims to maintain a list of useful relevant papers and open sour
   - [6. Federated Data-Driven Optimization](#6-federated-data-driven-optimization)
   - [7. Multi-Task Optimization](#7-multi-task-optimization)
   - [8. Others](#8-others)
-  - [9. Benchmarks \& Applications](#9-benchmarks--applications)
+  - [9. Benchmarks ](#9-benchmarks)
+  - [10. Applications ](#10-Applications)
 
 ## 1. Survey Papers
 
@@ -141,11 +142,19 @@ This respository aims to maintain a list of useful relevant papers and open sour
 |  RF-CNS   | A random forest assisted evolutionary algorithm using competitive neighborhood search for expensive constrained combinatorial optimization *2021* [paper](https://link.springer.com/article/10.1007/s12293-021-00326-9) | [HandingWangXDGroup/RF-CNS](https://github.com/HandingWangXDGroup/RF-CNS) |
 
 
-## 9. Benchmarks & Applications
+## 9. Benchmarks
 
-| Algorithm |                            Paper                             |                    Original Repository                    |
-| :-------: | :----------------------------------------------------------: | :-------------------------------------------------------: |
-| SDDObench | SDDObench: A Benchmark for Streaming Data-Driven Optimization with Concept Drift *2024* [paper](https://dl.acm.org/doi/10.1145/3638529.3654063) | [LabGong/SDDObench](https://github.com/LabGong/SDDObench) |
-| DDEA-DLS  | Automated Team Assembly in Mobile Games: A Data-Driven Evolutionary Approach using a Deep Learning Surrogate *2022* [paper](https://ieeexplore.ieee.org/document/9693290/) |                             -                             |
+| Algorithm |                            Paper                             |                     Original Repository                      |
+| :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| SOO-Bench | SOO-Bench: Benchmarks for Evaluating the Stability of Offline Black-Box Optimization *2025* [paper](https://openreview.net/pdf?id=bqf0aCF3Dd) | [zhuyiyi-123/SOO-Bench](https://github.com/zhuyiyi-123/SOO-Bench) |
+| SDDObench | SDDObench: A Benchmark for Streaming Data-Driven Optimization with Concept Drift *2024* [paper](https://dl.acm.org/doi/10.1145/3638529.3654063) |  [LabGong/SDDObench](https://github.com/LabGong/SDDObench)   |
+
+## 10. Applications
+
+| Algorithm |                            Paper                             |    Description     | Original Repository |
+| :-------: | :----------------------------------------------------------: | :----------------: | :-----------------: |
+| DDEA-DLS  | Automated Team Assembly in Mobile Games: A Data-Driven Evolutionary Approach using a Deep Learning Surrogate *2022* [paper](https://ieeexplore.ieee.org/document/9693290/) | Game Lineup Design |          -          |
+
+
 
 *The annotation [offline] indicates the offline DDEAs that are purely data-driven without any new funtion evalutions during the optimization.*
