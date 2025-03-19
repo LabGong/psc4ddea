@@ -126,10 +126,13 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 | Algorithm |                            Paper                             |                   Original Repository                   |
 | :-------: | :----------------------------------------------------------: | :-----------------------------------------------------: |
+|  G-MFEA  | Generalized Multi-tasking for Evolutionary Optimization of Expensive Problems *2017* [paper](https://ieeexplore.ieee.org/document/8231172) |     [G-MFRA](http://www.soft-computing.de/DDEO.html)     |
+|  SA-MM-MFEA | Surrogate-Assisted Evolutionary Multitasking for Expensive Minimax Optimization in Multiple Scenarios *2021* [paper](https://ieeexplore.ieee.org/document/9321420) |     [SA-MM-MFEA](http://www.soft-computing.de/DDEO.html)     |
 |  GL-LERC  | Global and Local Search Experience-Based Evolutionary Sequential Transfer Optimization *2024* [paper](https://ieeexplore.ieee.org/abstract/document/10565847) |     [GL-LERC](https://github.com/ccm831143/GL-LERC)     |
 |  SADMPSO  | Surrogate and Autoencoder-Assisted Multitask Particle Swarm Optimization for High-Dimensional Expensive Multimodal Problems *2023* [paper](https://ieeexplore.ieee.org/document/10155293) |                            -                            |
 |  MaMPSO   | Multisurrogate-Assisted Multitasking Particle Swarm Optimization for Expensive Multimodal Problems *2023* [paper](https://ieeexplore.ieee.org/document/9615147) |                            -                            |
 |  MS-MTO   | Multi-surrogate multi-tasking optimization of expensive problems *2020* [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120304536) | [IIS-tyust/MS-MTO](https://github.com/IIS-tyust/MS-MTO) |
+
 
 ## 8. Others
 
