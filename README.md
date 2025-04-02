@@ -160,7 +160,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
 | Algorithm |                            Paper                             |    Description     | Original Repository |
 | :-------: | :----------------------------------------------------------: | :----------------: | :-----------------: |
 | DDEA-DLS  | Automated Team Assembly in Mobile Games: A Data-Driven Evolutionary Approach using a Deep Learning Surrogate *2022* [paper](https://ieeexplore.ieee.org/document/9693290/) | Game Lineup Design |          -          |
-
+| DDEA-PSO  | Performance prediction and operating parameters optimization for proton exchange membrane fuel cell based on data-driven surrogate model and particle swarm optimization *2024* [paper](https://www.sciencedirect.com/science/article/pii/S0360319924017385) | Proton Exchange Membrane Fuel Cell |          -          |
 
 
 *The annotation [offline] indicates the offline DDEAs that are purely data-driven without any new funtion evalutions during the optimization.*
