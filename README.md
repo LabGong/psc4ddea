@@ -126,7 +126,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 | Algorithm |                            Paper                             |                   Original Repository                   |
 | :-------: | :----------------------------------------------------------: | :-----------------------------------------------------: |
-|  G-MFEA  | Generalized Multi-tasking for Evolutionary Optimization of Expensive Problems *2017* [paper](https://ieeexplore.ieee.org/document/8231172) |     [G-MFRA](http://www.soft-computing.de/DDEO.html)     |
+|  G-MFEA  | Generalized Multi-tasking for Evolutionary Optimization of Expensive Problems *2017* [paper](https://ieeexplore.ieee.org/document/8231172) |     [G-MFEA](http://www.soft-computing.de/DDEO.html)     |
 |  SA-MM-MFEA | Surrogate-Assisted Evolutionary Multitasking for Expensive Minimax Optimization in Multiple Scenarios *2021* [paper](https://ieeexplore.ieee.org/document/9321420) |     [SA-MM-MFEA](http://www.soft-computing.de/DDEO.html)     |
 |  MTCNP | Novel Multitask Conditional Neural-Network Surrogate Models for Expensive Optimization *2022* [paper](https://ieeexplore.ieee.org/document/9186363) |     -     |
 |  CCEI | Investigating the Correlation Amongst the Objective and Constraints in Gaussian Process-Assisted Highly-Constrained Expensive Optimization *2022* [paper](https://ieeexplore.ieee.org/document/9321420) |     [CCEI](https://github.com/RuwangJiao/CCEI)     |
