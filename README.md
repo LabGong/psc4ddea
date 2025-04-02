@@ -2,7 +2,7 @@
 
 This respository aims to maintain a list of useful relevant papers and open source codes for Data-Driven Evolutionary Algorithms (DDEAs).
 
-*Maintained by members in SCUT-Ailab: Yuanting Zhong, Haogan Huang, Xianrong Zhang, Xincan Wang, Ke Zhu and Yuejiao Gong.*
+*Maintained by members in SCUT-Ailab: Yuanting Zhong, Haogan Huang, Xianrong Zhang and Yuejiao Gong.*
 
 - [Useful Papers and Source Codes for Data-Driven Evolutionary Algorithms （DDEAs)](#useful-papers-and-source-codes-for-data-driven-evolutionary-algorithms-ddeas)
   - [1. Survey Papers](#1-survey-papers)
@@ -126,16 +126,15 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 | Algorithm |                            Paper                             |                   Original Repository                   |
 | :-------: | :----------------------------------------------------------: | :-----------------------------------------------------: |
-|  G-MFEA  | Generalized Multi-tasking for Evolutionary Optimization of Expensive Problems *2017* [paper](https://ieeexplore.ieee.org/document/8231172) |     [G-MFEA](http://www.soft-computing.de/DDEO.html)     |
-|  SA-MM-MFEA | Surrogate-Assisted Evolutionary Multitasking for Expensive Minimax Optimization in Multiple Scenarios *2021* [paper](https://ieeexplore.ieee.org/document/9321420) |     [SA-MM-MFEA](http://www.soft-computing.de/DDEO.html)     |
+|  GL-LERC  | Global and Local Search Experience-Based Evolutionary Sequential Transfer Optimization *2024* [paper](https://ieeexplore.ieee.org/abstract/document/10565847) |     [GL-LERC](https://github.com/ccm831143/GL-LERC)     |
+|  SADE-KT |  A Surrogate-Assisted Differential Evolution With Knowledge Transfer for Expensive Incremental Optimization Problems *2023* [paper](https://ieeexplore.ieee.org/document/10172303) |     -     |
+|  SADMPSO  | Surrogate and Autoencoder-Assisted Multitask Particle Swarm Optimization for High-Dimensional Expensive Multimodal Problems *2023* [paper](https://ieeexplore.ieee.org/document/10155293) | - |
+|  MaMPSO   | Multisurrogate-Assisted Multitasking Particle Swarm Optimization for Expensive Multimodal Problems *2023* [paper](https://ieeexplore.ieee.org/document/9615147) | -  |
 |  MTCNP | Novel Multitask Conditional Neural-Network Surrogate Models for Expensive Optimization *2022* [paper](https://ieeexplore.ieee.org/document/9186363) |     -     |
 |  CCEI | Investigating the Correlation Amongst the Objective and Constraints in Gaussian Process-Assisted Highly-Constrained Expensive Optimization *2022* [paper](https://ieeexplore.ieee.org/document/9321420) |     [CCEI](https://github.com/RuwangJiao/CCEI)     |
-|  DETO |  A Data-Driven Evolutionary Transfer Optimization for Expensive Problems in Dynamic Environments *2023* [paper](https://ieeexplore.ieee.org/document/10225543) |     -     |
-|  SADE-KT |  A Surrogate-Assisted Differential Evolution With Knowledge Transfer for Expensive Incremental Optimization Problems *2023* [paper](https://ieeexplore.ieee.org/document/10172303) |     -     |
-|  GL-LERC  | Global and Local Search Experience-Based Evolutionary Sequential Transfer Optimization *2024* [paper](https://ieeexplore.ieee.org/abstract/document/10565847) |     [GL-LERC](https://github.com/ccm831143/GL-LERC)     |
-|  SADMPSO  | Surrogate and Autoencoder-Assisted Multitask Particle Swarm Optimization for High-Dimensional Expensive Multimodal Problems *2023* [paper](https://ieeexplore.ieee.org/document/10155293) |                            -                            |
-|  MaMPSO   | Multisurrogate-Assisted Multitasking Particle Swarm Optimization for Expensive Multimodal Problems *2023* [paper](https://ieeexplore.ieee.org/document/9615147) |                            -                            |
+|  SA-MM-MFEA | Surrogate-Assisted Evolutionary Multitasking for Expensive Minimax Optimization in Multiple Scenarios *2021* [paper](https://ieeexplore.ieee.org/document/9321420) |[SA-MM-MFEA](http://www.soft-computing.de/DDEO.html) |-|
 |  MS-MTO   | Multi-surrogate multi-tasking optimization of expensive problems *2020* [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120304536) | [IIS-tyust/MS-MTO](https://github.com/IIS-tyust/MS-MTO) |
+|  G-MFEA  | Generalized Multi-tasking for Evolutionary Optimization of Expensive Problems *2017* [paper](https://ieeexplore.ieee.org/document/8231172) |[G-MFEA](http://www.soft-computing.de/DDEO.html)|
 
 
 ## 8. Others
