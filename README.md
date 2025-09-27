@@ -103,7 +103,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 |      Algorithm      |                            Paper                             |                     Original Repository                      |
 | :-----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|    DASE  | Data-Driven Evolutionary Computation Under Continuously Streaming Environments: A Drift-Aware Approach *2025* [paper](https://ieeexplore.ieee.org/document/11082370) |                              [YTALEIN/DASE](https://github.com/YTALIEN/DASE) |
+|    DASE  | Data-Driven Evolutionary Computation Under Continuously Streaming Environments: A Drift-Aware Approach *2025* [paper](https://ieeexplore.ieee.org/document/11082370) |                              [YTALIEN/DASE](https://github.com/YTALIEN/DASE) |
 |    MLDDEO & MLBO    | Solving Expensive Optimization Problems in Dynamic Environments With Meta-Learning *2024* [paper](https://ieeexplore.ieee.org/document/10644136) |                              -                               |
 |       SADE-KT       | A Surrogate-Assisted Differential Evolution with Knowledge Transfer for Expensive Incremental Optimization Problems *2023* [paper](https://ieeexplore.ieee.org/document/10172303) |                              -                               |
 |  DSE-MFS [offline]  | A Data Stream Ensemble Assisted Multifactorial Evolutionary Algorithm for Offline Data-driven Dynamic Optimization *2023* [paper](https://direct.mit.edu/evco/article-abstract/doi/10.1162/evco_a_00332/115655/A-Data-Stream-Ensemble-Assisted-Multifactorial?redirectedFrom=fulltext) |    [DSE_MFS](https://github.com/Peacefulyang/DSE_MFS.git)    |
