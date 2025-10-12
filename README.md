@@ -63,6 +63,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 |      Algorithm      |                            Paper                             |                     Original Repository                      |
 | :-----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  SPGP-SAEA  | Surrogate-Assisted Evolutionary Multi-Objective Optimization of Medium-Scale Problems by Random Grouping and Sparse Gaussian Modeling, TETCI,*2024* [paper](https://ieeexplore.ieee.org/document/10478742/) |   -   |
 |  DDMOEA/GAN [offline]  | Offline Data-Driven Multiobjective Optimization Evolutionary Algorithm Based on Generative Adversarial Network, TEVC,*2024* [paper](https://ieeexplore.ieee.org/document/9997101/) |   -   |
 |       TGPR-MO[offline]      | Treed Gaussian Process Regression for Solving Offline Data-Driven Continuous Multiobjective Optimization Problems,Evolutionary Computation,*2022* [paper](https://ieeexplore.ieee.org/abstract/document/10902663) |                              -                               |
 |       HES-EA        | A Hierarchical and Ensemble Surrogate-Assisted Evolutionary Algorithm With Model Reduction for Expensive Many-Objective Optimization *2024* [paper](https://ieeexplore.ieee.org/document/10630664) |                              -                               |
