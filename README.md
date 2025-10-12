@@ -131,6 +131,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 | Algorithm |                            Paper                             |                   Original Repository                   |
 | :-------: | :----------------------------------------------------------: | :-----------------------------------------------------: |
+|  HSVLMC  | Learning Multitask Gaussian Process Over Heterogeneous Input Domains, TSMC, *2023* [paper](https://ieeexplore.ieee.org/document/10151802) |   -     |
 |  Hetero-TBO  | Generalizing Transfer Bayesian Optimization to Source-Target Heterogeneity, TASE, *2024* [paper](https://ieeexplore.ieee.org/abstract/document/9180071) |   -     |
 |  ExTrEMO  | ExTrEMO: Transfer Evolutionary Multiobjective Optimization With Proof of Faster Convergence, TEVC, *2024* [paper](https://ieeexplore.ieee.org/document/10379505) |     [ExTrEMO](https://github.com/LiuJ-2023/ExTrEMO)     |
 |  GL-LERC  | Global and Local Search Experience-Based Evolutionary Sequential Transfer Optimization *2024* [paper](https://ieeexplore.ieee.org/abstract/document/10565847) |     [GL-LERC](https://github.com/ccm831143/GL-LERC)     |
