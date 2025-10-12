@@ -92,6 +92,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 |     Algorithm     |                            Paper                             |                     Original Repository                      |
 | :---------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+
 |     DSKT-DDEA     | Island-Based Evolutionary Computation with Diverse Surrogates and Adaptive Knowledge Transfer for High-Dimensional Data-Driven Optimization *2024* |  [LabGong/DSKT-DDEA](https://github.com/LabGong/DSKT-DDEA)   |
 | CC-DDEA [offline] | Offline Data-Driven Optimization at Scale: A Cooperative Coevolutionary Approach *2023* [paper](https://ieeexplore.ieee.org/document/10339654) |    [LabGong/CC-DDEA](https://github.com/LabGong/cc-ddea)     |
 |      L2SMEA       | Linear Subspace Surrogate Modeling for Large-Scale Expensive Single/Multi-Objective Optimization *2023* [paper](https://ieeexplore.ieee.org/document/10265195) |                              -                               |
@@ -130,6 +131,8 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 | Algorithm |                            Paper                             |                   Original Repository                   |
 | :-------: | :----------------------------------------------------------: | :-----------------------------------------------------: |
+|  Hetero-TBO  | Generalizing Transfer Bayesian Optimization to Source-Target Heterogeneity, TASE, *2024* [paper](https://ieeexplore.ieee.org/abstract/document/9180071) |   -     |
+|  ExTrEMO  | ExTrEMO: Transfer Evolutionary Multiobjective Optimization With Proof of Faster Convergence, TEVC, *2024* [paper](https://ieeexplore.ieee.org/document/10379505) |     [ExTrEMO](https://github.com/LiuJ-2023/ExTrEMO)     |
 |  GL-LERC  | Global and Local Search Experience-Based Evolutionary Sequential Transfer Optimization *2024* [paper](https://ieeexplore.ieee.org/abstract/document/10565847) |     [GL-LERC](https://github.com/ccm831143/GL-LERC)     |
 |  SADE-KT |  A Surrogate-Assisted Differential Evolution With Knowledge Transfer for Expensive Incremental Optimization Problems *2023* [paper](https://ieeexplore.ieee.org/document/10172303) |     -     |
 |  SADMPSO  | Surrogate and Autoencoder-Assisted Multitask Particle Swarm Optimization for High-Dimensional Expensive Multimodal Problems *2023* [paper](https://ieeexplore.ieee.org/document/10155293) | - |
