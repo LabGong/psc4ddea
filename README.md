@@ -131,6 +131,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 | Algorithm |                            Paper                             |                   Original Repository                   |
 | :-------: | :----------------------------------------------------------: | :-----------------------------------------------------: |
+|  EMTIL  | Multiobjective Multitasking Optimization Based on Incremental Learning, TEVC, *2019* [paper](https://ieeexplore.ieee.org/document/8944273) |   -     |
 |  MPHD  | Transfer Learning for Bayesian Optimization on Heterogeneous Search Spaces, TMLR, *2024* [paper](https://openreview.net/forum?id=emXh4M7TyH) |   -     |
 |  HSVLMC  | Learning Multitask Gaussian Process Over Heterogeneous Input Domains, TSMC, *2023* [paper](https://ieeexplore.ieee.org/document/10151802) |   -     |
 |  Hetero-TBO  | Generalizing Transfer Bayesian Optimization to Source-Target Heterogeneity, TASE, *2024* [paper](https://ieeexplore.ieee.org/abstract/document/9180071) |   -     |
