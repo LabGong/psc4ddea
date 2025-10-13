@@ -92,7 +92,6 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 |     Algorithm     |                            Paper                             |                     Original Repository                      |
 | :---------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-
 |     DSKT-DDEA     | Island-Based Evolutionary Computation with Diverse Surrogates and Adaptive Knowledge Transfer for High-Dimensional Data-Driven Optimization *2024* |  [LabGong/DSKT-DDEA](https://github.com/LabGong/DSKT-DDEA)   |
 | CC-DDEA [offline] | Offline Data-Driven Optimization at Scale: A Cooperative Coevolutionary Approach *2023* [paper](https://ieeexplore.ieee.org/document/10339654) |    [LabGong/CC-DDEA](https://github.com/LabGong/cc-ddea)     |
 |      L2SMEA       | Linear Subspace Surrogate Modeling for Large-Scale Expensive Single/Multi-Objective Optimization *2023* [paper](https://ieeexplore.ieee.org/document/10265195) |                              -                               |
