@@ -63,6 +63,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 |      Algorithm      |                            Paper                             |                     Original Repository                      |
 | :-----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  MOEA/D-MTGP  | Expensive Multiobjective Optimization Based on Information Transfer Surrogate, TSMC,*2022* [paper](https://ieeexplore.ieee.org/document/9900358/) |   -   |
 |  GCS-MOE  | Evolutionary Optimization of Expensive Multiobjective Problems With Co-Sub-Pareto Front Gaussian Process Surrogates, TCYB,*2019* [paper](https://ieeexplore.ieee.org/document/8315110/) |   -   |
 |  SPGP-SAEA  | Surrogate-Assisted Evolutionary Multi-Objective Optimization of Medium-Scale Problems by Random Grouping and Sparse Gaussian Modeling, TETCI,*2024* [paper](https://ieeexplore.ieee.org/document/10478742/) |   -   |
 |  DDMOEA/GAN [offline]  | Offline Data-Driven Multiobjective Optimization Evolutionary Algorithm Based on Generative Adversarial Network, TEVC,*2024* [paper](https://ieeexplore.ieee.org/document/9997101/) |   -   |
